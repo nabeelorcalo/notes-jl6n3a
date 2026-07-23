@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nabeelorcalo.github.io/notes-jl6n3a/sitemap.xml
